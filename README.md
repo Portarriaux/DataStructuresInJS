@@ -28,7 +28,6 @@
   |-- README.md
   |-- Array/
       |-- fibonacci-sequence.js
-      |-- fibonacci-notes.md
 </pre>
 <h2 id="usage">🚀 Como Utilizar</h2>
 <p>
