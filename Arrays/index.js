@@ -6,4 +6,4 @@ fibonacci[i] = fibonacci[i - 1] + fibonacci[i - 2]; // //{4}
 }
 for (let i = 1; i < fibonacci.length; i++) { // {5}
 console.log(fibonacci[i]); // {6}
-} 
+}
