@@ -27,7 +27,7 @@
 <DataStructuresInJS>
   |-- README.md
   |-- Array/
-      |-- fibonacci-sequence.js
+  
 </pre>
 <h2 id="usage">🚀 Como Utilizar</h2>
 <p>
