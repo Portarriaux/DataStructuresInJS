@@ -77,3 +77,6 @@ console.log(Object.getOwnPropertyNames(stack)); // Exibe as propriedades do obje
 console.log(Object.keys(stack)); // Exibe as chaves do objeto stack
 console.log(stack.items); // Exibe os itens atuais na pilha
 console.log(stack.toString()); // Exibe a representação em string dos itens na pilha
+
+
+// ? TESTE
